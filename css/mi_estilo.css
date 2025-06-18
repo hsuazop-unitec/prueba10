@@ -1,0 +1,33 @@
+#titulo_about_us{
+    color: red;
+
+}
+
+.titulo_categoria{
+    color: rgba(155, 204, 106, 0.913);
+}
+
+h2{
+    color: #aa38b1;
+}
+
+.azul_grande{
+    color: blue;
+    font-size: 50px;
+}
+
+.grande{
+    font-size: 300px;
+}
+
+.fondo_principal{
+    background-color: blue;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.separar_de_arriba{
+    margin-top: 100px;
+}
